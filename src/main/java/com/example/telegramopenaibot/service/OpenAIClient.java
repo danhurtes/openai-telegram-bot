@@ -2,7 +2,7 @@ package com.example.telegramopenaibot.service;
 
 import com.example.telegramopenaibot.dto.ChatGptResponse;
 import com.example.telegramopenaibot.dto.Message;
-import com.example.telegramopenaibot.web.request.ChatGPTRequest;
+import com.example.telegramopenaibot.dto.ChatGPTRequest;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,6 +1,5 @@
-package com.example.telegramopenaibot.web.request;
+package com.example.telegramopenaibot.dto;
 
-import com.example.telegramopenaibot.dto.Message;
 import lombok.Data;
 
 import java.util.ArrayList;
